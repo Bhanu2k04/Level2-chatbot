@@ -1,0 +1,13 @@
+You: What is 12 times 7?
+Bot:  The result is: 84
+
+You: add 45 and 30
+Bot:  The result is: 75
+
+You: What is the capital of France?
+Bot: Paris
+
+
+You: Multiply 9 and 8, and also tell me the capital of Japan
+Bot: ⚠️ Sorry, I can't handle multiple questions in one message yet.
+
