@@ -42,8 +42,8 @@ A desktop-based smart assistant built with Python that combines:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Bhanu2k04/llm-smart-assistant.git
-cd llm-smart-assistant
+git clone https://github.com/Bhanu2k04/Level2-chatbot.git
+cd Level2-chatbot
 ````
 
 ### 2. Install dependencies
